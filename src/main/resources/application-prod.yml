@@ -13,9 +13,9 @@ spring:
   # todo 需替换配置
   datasource:
     driver-class-name: com.mysql.cj.jdbc.Driver
-    url: jdbc:mysql://localhost:3306/dadale
+    url: jdbc:mysql://10.24.106.166:3306/dadale
     username: root
-    password: 1234
+    password: Twb12345
   # Redis 配置
   # todo 需替换配置
   redis:
@@ -32,9 +32,9 @@ spring:
       dadale:
         type: com.zaxxer.hikari.HikariDataSource
         driver-class-name: com.mysql.cj.jdbc.Driver
-        jdbc-url: jdbc:mysql://localhost:3306/dadale
+        jdbc-url: jdbc:mysql://10.24.106.166:3306/dadale
         username: root
-        password: 1234
+        password: Twb12345
     # 规则配置
     rules:
       sharding:
