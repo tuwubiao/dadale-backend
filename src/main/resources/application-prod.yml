@@ -34,7 +34,7 @@ spring:
         driver-class-name: com.mysql.cj.jdbc.Driver
         jdbc-url: jdbc:mysql://10.24.106.166:3306/dadale
         username: root
-        password: Twb12345
+        password: xxx
     # 规则配置
     rules:
       sharding:
