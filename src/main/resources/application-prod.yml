@@ -15,7 +15,7 @@ spring:
     driver-class-name: com.mysql.cj.jdbc.Driver
     url: jdbc:mysql://10.24.106.166:3306/dadale
     username: root
-    password: Twb12345
+    password: xxx
   # Redis 配置
   # todo 需替换配置
   redis:
